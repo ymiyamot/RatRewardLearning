@@ -1,2 +1,2 @@
 # RatRewardLearning
-Analysis of Rats trained by OpCon system to press a lever based on reward.
+Analysis of rats trained by OpCon system to press a lever based on reward.
